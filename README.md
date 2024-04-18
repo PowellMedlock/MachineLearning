@@ -35,7 +35,8 @@ in ICP 4 programs were made to:
           use SVM and Naive Bayes on glass.csv
           determine the accuracy from both of these techniques
           visualize the accuracy of the data and determine which had the better accuracy
-          
+          video
+          https://drive.google.com/file/d/17xbp9S3SV6KvehLwz-95Ti0oiq2hyrdP/view?usp=sharing
 In ICP 5 programs were made to:
           scale, use PCA and fit data with KNN clustering on CC GENERAL.csv
           scale, use PCA and fit data with SVM onpd_speech_features.csv
