@@ -31,9 +31,13 @@ programs in pandas were made to:
           https://drive.google.com/file/d/1Csdri18jU_YTac6tGSojsjFooyWOie_Z/view?usp=sharing
 
 
-
-
-
+in ICP 4 programs were made to:
+          use SVM and Naive Bayes on glass.csv
+          determine the accuracy from both of these techniques
+          visualize the accuracy of the data and determine which had the better accuracy
+          
+In ICP 5 programs were made to:
+          
 
 
 
