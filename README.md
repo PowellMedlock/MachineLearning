@@ -37,8 +37,10 @@ in ICP 4 programs were made to:
           visualize the accuracy of the data and determine which had the better accuracy
           
 In ICP 5 programs were made to:
-          
-
+          scale, use PCA and fit data with KNN clustering on CC GENERAL.csv
+          scale, use PCA and fit data with SVM onpd_speech_features.csv
+          Apply Linear Discriminant Analysis to Iris.csv
+          visualize with matplotlib
 
 
 
